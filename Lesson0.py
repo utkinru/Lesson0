@@ -1,0 +1,8 @@
+print ("1st program")
+print((9 ** 0.5)*5)
+print("2nd program")
+print(9.99 > 9.98 or 9.99 > 1000 or 9.99 != 1000.1 )
+print("3rd program")
+print(((1234 // 10) % 100) + (5678 // 84))
+print("4th program")
+print((13.42 == 42.13) or ((13.42-int(13.42//1))*100) == ((13.42-int(13.42//1))*100))
